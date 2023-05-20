@@ -5,7 +5,7 @@
   "default": "index.html",
   "scripts": {
     "scripts": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --dist/dir .dir"
   },
   "author": "shike",
   "license": "ISC",
