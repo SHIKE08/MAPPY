@@ -1,0 +1,15 @@
+{
+  "name": "mappy",
+  "version": "1.0.0",
+  "description": "",
+  "default": "index.html",
+  "scripts": {
+    "scripts": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "shike",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
